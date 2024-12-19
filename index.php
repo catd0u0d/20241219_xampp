@@ -22,6 +22,7 @@
                 <li><a href="view_customers.php">客戶列表</a></li>
                 <li><a href="search_customers.php">搜尋客戶</a></li>
                 <li><a href="backup_history.php">備份歷史</a></li>
+                <li><a href="chatbot.php">機器人FAQ</a></li>
             </ul>
         </nav>
 
